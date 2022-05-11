@@ -1,0 +1,3 @@
+download google app engine : https://cloud.google.com/sdk/docs/install
+
+google-cloud-sdk\bin\dev_appserver.py D:\venki\app
